@@ -67,7 +67,7 @@ p.first {
 p.second {
   width: 19vw;
    background: linear-gradient(
-    to top, 
+    to bottom, 
     hsl(290 40% 49%), /* 200 100% 62% */
     hsl(400 0% 52%)  /* 360 100% 59% */
   );
